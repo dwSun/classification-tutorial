@@ -2,6 +2,15 @@
 
 这个教程源于 TFv2.0 官方的两个教程，做完了 TF 的版本之后，不过瘾，就顺手又撸了 pyTorch 和 mxnet 的版本。
 
+# 文件说明
+
+- [inference-mxnet.ipynb](inference-mxnet.ipynb) mxnet 版本模型应用
+- [inference-torch.ipynb](inference-torch.ipynb) pyTorch 版本模型应用
+- [inference.ipynb](inference.ipynb) TensorFlow V2.0 版本模型应用
+- [readme.md](readme.md) 
+- [train-mxnet.ipynb](train-mxnet.ipynb)  mxnet 版本模型训练
+- [train-torch.ipynb](train-torch.ipynb)  pyTorch 版本模型训练
+- [train.ipynb](train.ipynb)  TensorFlow V2.0 版本模型训练
 
 # 一点心得
 
